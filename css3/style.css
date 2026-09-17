@@ -1,0 +1,8 @@
+.kartica{
+    box-shadow: 10px 10px 15px fuchsia;
+    width: 70px;
+    padding: 10%;
+    background-color: rgb(91, 196, 161);
+    border: 2px solid steelblue;
+    border-radius: 50%
+}
